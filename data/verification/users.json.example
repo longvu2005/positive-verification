@@ -1,0 +1,4 @@
+{
+  "annotators": {"annotator2_username": 2, "annotator3_username": 3},
+  "admins": ["admin_username"]
+}
